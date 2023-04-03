@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi Folks<br>Welcome to My World <br>It's AMAN but you can call me<br>SAJID</h3>
+<h3 align="center">Hi Folks<br>Welcome to My World</h3>
 
 ###
 
@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Sa/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Sa/count.svg?" />
 </div>
 
 ###
@@ -87,7 +87,7 @@
 
 <br clear="both">
 
-<h3 align="center">🔥   My Stats:   U can  See My Contribution</h3>
+<h3 align="center">🔥 My Stats:   U can  See My Contribution </h3>
 
 ###
 <div align="Center">
