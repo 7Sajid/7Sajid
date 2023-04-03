@@ -96,8 +96,6 @@
   
 </div>
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=7Sajid&theme=gruvbox&hide_border=false) 
-  
 ###
 
 <div align="center">
@@ -109,6 +107,12 @@
 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) 
+
+<div align="center">
+
+    [![SAJID's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=&Sajid&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/7Sajid/github-readme-stats#gh-light-mode-only)
+
+</div>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
