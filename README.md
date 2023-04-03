@@ -104,9 +104,9 @@
 ###
 
 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) |
-
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) 
+</div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=7Sajid&theme=gruvbox&hide_border=false) 
  
@@ -115,7 +115,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
  
 
-![Github Stars](https://github-readme-stats.vercel.app/api?username=7Sajid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api?username=7Sajid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
