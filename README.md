@@ -104,16 +104,24 @@
 ###
 
 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) |
-![](https://github-readme-streak-stats.herokuapp.com/?user=7Sajid&theme=gruvbox&hide_border=false) |
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | 
+</div>
+<div align="center">
+![](https://github-readme-streak-stats.herokuapp.com/?user=7Sajid&theme=gruvbox&hide_border=false) 
+ </div>
+ 
+<div align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/
+username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+ </div>
+
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=7Sajid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
-[![Rakib Khan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7Sajid&theme=tokyonight&hide_border=true)](https://7Sajid.github.io/)
+
+[![Sajid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7Sajid&theme=tokyonight&hide_border=true)](https://7Sajid.github.io/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
 ###
 
