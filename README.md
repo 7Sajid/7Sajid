@@ -90,7 +90,9 @@
 <h3 align="center">🔥   My Stats:   U can  See My Contribution</h3>
 
 ###
+<div align="center">
   ![](https://github-readme-streak-stats.herokuapp.com/?user=7Sajid&theme=gruvbox&hide_border=false) 
+  </div>
 ###
 
 <div align="center">
