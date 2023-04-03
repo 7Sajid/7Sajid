@@ -90,11 +90,7 @@
 <h3 align="center">🔥   My Stats:   U can  See My Contribution</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=7Sajid&theme=gruvbox&hide_border=false) 
 ###
 
 <div align="center">
@@ -104,18 +100,14 @@
 ###
 
 📊 GitHub Stats:
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) 
-</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=7Sajid&theme=gruvbox&hide_border=false) 
- 
- 
+![](https://github-readme-stats.vercel.app/api?username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) 
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
  
 
-(https://github-readme-stats.vercel.app/api?username=7Sajid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=7Sajid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
