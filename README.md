@@ -104,17 +104,17 @@
 ###
 
 📊 GitHub Stats:
-<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) |
-</div>
-<div align="center">
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=7Sajid&theme=gruvbox&hide_border=false) 
- </div>
  
-<div align="center">
+ 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/
 username=7Sajid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
- </div>
+ 
 
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=7Sajid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
