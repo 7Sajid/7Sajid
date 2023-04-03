@@ -104,7 +104,7 @@
 ###
 
 
-(https://github-readme-stats.vercel.app/api?username=7Sajid)](https://github.com/7Sajid/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&Sajid&show_icons=true)
 
 
 ###
