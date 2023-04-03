@@ -104,7 +104,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </div>
 
 ###
