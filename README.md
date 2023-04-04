@@ -30,7 +30,7 @@
 
 ###
 
-<p align="center">- 🔭 I’m working as Intern at Genex Infosys <br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I like to spend my full day with my Lappy</p>
+<p align="center">- 🔭 𝕀’𝕞 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕒𝕤 𝕀𝕟𝕥𝕖𝕣𝕟 𝕒𝕥 𝔾𝕖𝕟𝕖𝕩 𝕀𝕟𝕗𝕠𝕤𝕪𝕤 <br>- 📚 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰᴜʟʟꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ <br>- ⚡ In my free time I like to spend my full day with my Lappy</p>
 
 ###
 
