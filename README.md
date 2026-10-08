@@ -3,15 +3,14 @@
 
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
-
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+## Glad to see you here! 
+I am a full-stack software engineer and IT Infrastructure Specialist. I love programming, Reading, Writing and Speaking.
 
 As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/7Sajid/ ?raw=true" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
