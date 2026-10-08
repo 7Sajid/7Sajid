@@ -10,7 +10,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/7Sajid/ ?raw=true" width="408" height="318" />
+<img align="right" alt="AI Coding GIF" src="https://raw.githubusercontent.com/7Sajid/portfolio/main/assets/ai-coding.gif" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
