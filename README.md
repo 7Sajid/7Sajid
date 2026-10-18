@@ -259,12 +259,12 @@ deployment, and application security.
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=7Sajid&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
     alt="GitHub statistics"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Sajid&layout=compact&hide_border=true&theme=tokyonight"
     alt="Most used programming languages"
   />
 </p>
