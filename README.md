@@ -246,7 +246,7 @@ deployment, and application security.
 
 <p>
   🔗 Explore my repositories:
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories](https://github.com/7Sajid?tab=repositories">
     View All Projects
   </a>
 </p>
